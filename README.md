@@ -12,7 +12,7 @@ The following EDA steps are covered in the notebook:
 4. Bivariate Analysis
 
 # 📖 Data Storytelling (Key Insights)
-The key insights are presented through an interactive Streamlit app: [https://yourjob.streamlit.app/](https://yourjob.streamlit.app/)
+The key insights are presented through an interactive Streamlit app: [https://gradsjobs.streamlit.app/](https://gradsjobs.streamlit.app/)
 
 # 🛠️ Tech Stack
 Used Libraries:
